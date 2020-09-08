@@ -1,4 +1,4 @@
-### Hi there :ghost:
+:ghost:
 
 <!--
 **R1NC/R1NC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
