@@ -16,8 +16,9 @@ jobs:
       uses: cicirello/user-statistician@v1
       with:
         colors: light
+        show-border: false
         custom-title: My GitHub Statistics
-        hide-keys: joined, followers, following,
+        hide-keys: joined, followers, following
         max-languages: 100
         animated-language-chart: true
       env:
