@@ -17,6 +17,7 @@ jobs:
       with:
         colors: light
         show-border: false
+        top-icon: none
         custom-title: My GitHub Statistics
         hide-keys: joined, followers, following
         max-languages: 100
