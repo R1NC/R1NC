@@ -1,1 +1,1 @@
-![Metrics-languages](/metrics.plugin.languages.details.svg)
+![Metrics-languages](images/userstats.svg)
