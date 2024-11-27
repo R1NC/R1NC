@@ -1,1 +1,1 @@
-![Metrics-languages](images/userstats.svg)
+![cicirello/user-statistician](images/userstats.svg)
