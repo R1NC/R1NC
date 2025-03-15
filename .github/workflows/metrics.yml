@@ -19,7 +19,7 @@ jobs:
         show-border: false
         top-icon: none
         custom-title: Rinc's GitHub Statistics
-        hide-keys: joined, followers, following
+        hide-keys: general, contributions, repositories, joined, followers, following
         max-languages: 100
         animated-language-chart: false
       env:
