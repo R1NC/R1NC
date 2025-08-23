@@ -18,7 +18,7 @@ jobs:
         colors: light
         show-border: false
         top-icon: none
-        custom-title: Rinc's GitHub Statistics
+        custom-title: 
         hide-keys: general, contributions, repositories, joined, followers, following
         language-repository-exclusions: Diagram,AND-WebP
         max-languages: 15
