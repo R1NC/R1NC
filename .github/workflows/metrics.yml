@@ -22,6 +22,6 @@ jobs:
         hide-keys: general, contributions, repositories, joined, followers, following
         language-repository-exclusions: AND-WebP
         max-languages: 100
-        animated-language-chart: false
+        animated-language-chart: true
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
