@@ -21,7 +21,7 @@ jobs:
         custom-title: Rinc's GitHub Statistics
         hide-keys: general, contributions, repositories, joined, followers, following
         language-repository-exclusions: AND-WebP
-        max-languages: 100
-        animated-language-chart: true
+        max-languages: 15
+        animated-language-chart: false
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
