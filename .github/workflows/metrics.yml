@@ -21,7 +21,7 @@ jobs:
         custom-title: ~#./code-lang-stat.sh
         hide-keys: general, contributions, repositories, joined, followers, following
         language-repository-exclusions: Diagram,AND-WebP
-        max-languages: 15
+        max-languages: 13
         animated-language-chart: false
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
