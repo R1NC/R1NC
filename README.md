@@ -6,6 +6,6 @@ I'm a mobile architect, specializing in crafting cross-platform SDKs with modern
 
 > C makes it easy to shoot yourself in the root.<br/>
 > C++ makes it harder.<br/>
-> Rust takes away your gun, and gives you a bible.
+> Rust takes away your gun and gives you a bible.
 
 ![cicirello/user-statistician](images/userstats.svg)
